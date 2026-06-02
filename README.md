@@ -1,1 +1,5 @@
-The following file can be opened directly or can be used by uploading to the kaggle site to see the relavant code. simply create a new notebook and import the file.
+The following Repository Consist of all the necessary and completed files for the project 
+      1. Group Proposal for the project
+      2. Group project report 
+      3. Graphs 
+      4. Code for the Model training and Validation
